@@ -1,0 +1,5 @@
+2020-07-24 13:59:37,736-INFO-[root]:successful loaded lib: tf_op_cu.so, from: /home/lebesgue/PointCloud/3DProject/model/lib/tf_op_cu.so
+2020-07-24 13:59:37,737-INFO-[root]:tf_op_cu
+2020-07-24 13:59:37,737-INFO-[modelnetload]:root: /home/lebesgue/data/Kitti/modelnet40_normal_resampled, resource_file: modelnet10_train.txt, category_file: modelnet10_shape_names.txt, max_points: 1500, data_augmentation: True
+2020-07-24 13:59:37,738-INFO-[modelnetload]:Total files number is 3991
+2020-07-24 13:59:37,738-INFO-[modelnetload]:Total files number is 10
